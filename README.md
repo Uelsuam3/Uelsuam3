@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Uelsuam3 filling out a git template here.
-- 👀 I’m interested in many things such as pomo (postmodernism) 
-- 🌱 I’m always learning ... trying to learn a little swift, Python... in order to have a career change...
-- 📫 How to reach me ... with difficulty, I'm too busy at the moment (unemployed and because of that my main mailbox that I read feels bombed.)
+- 👋 Hi, I’m @Uelsuam3 :virgo: :goat: :family: <br>
+- 👀 I’m interested in many things such as pomo (postmodernism) and travel :airplane: :mountain_railway: :earth_asia: <br>
+- I have Family in the UK :uk:, France :fr:, and the Philippines :philippines:. <br> 
+- 🌱 I’m currently learning many languages: Swift, Python... or watever comes my way in order to have a career change...<br>
+- I want to be more creative while still searching for more freedom and independance (work at anytime from anywhere).
+- Emacs is currently my favorite editor.
+- 📫 How to reach me ... with difficulty. (the main mailbox that I consult feels constantly bombarded.)
 
 <!---
 Uelsuam3/Uelsuam3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
