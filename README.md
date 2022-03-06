@@ -1,6 +1,6 @@
  👋 Hi, <br>
  <br>I’m @Uelsuam3 (Ѥ) :virgo: :goat: :family: <br>
-I may Multiple Sclerosis :wheelchair: but I'm OK.
+I may have Multiple Sclerosis :wheelchair: but I'm OK.
 <br>With family in the UK :uk:, France :fr: and the Philippines :philippines:, we always have a lot of travelling to do.:airplane: :mountain_railway: :earth_asia: 
 <br>👀 Many interests such as pomo (postmodernism), , ... <br>
 🌱 I’m currently learning several languages: Swift, Python... or whatever comes my way in order to do what I'm trying to do or to have a career change...
